@@ -1,4 +1,7 @@
-##  👋本科 计算机科学与技术 2020应届 求一份全职Java/dotnet工作，求带走乌乌，联系hi#tioachan.dev
+### Hi there 👋
+
+## ✨ 就一臭打游戏的，会修电脑 ✨
+
 <!--
 **TioaTyan/TioaTyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
